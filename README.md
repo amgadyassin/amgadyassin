@@ -170,10 +170,6 @@ I am a **Senior Data Analyst & Analytics Engineer** with **5+ years** of hands-o
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amgadyassin&theme=tokyonight&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
-  <br/>
-  <p align="center">
-    <sub><em>Note: Primary enterprise architectures, Microsoft Fabric lakehouses, and CDP pipelines reside in private corporate tenants. Explore open-source code in <a href="https://github.com/amgadyassin/global-ai-layoffs">global-ai-layoffs</a>.</em></sub>
-  </p>
 </div>
 
 <br/>
