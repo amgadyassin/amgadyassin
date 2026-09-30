@@ -166,16 +166,14 @@ I am a **Senior Data Analyst & Analytics Engineer** with **5+ years** of hands-o
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amgadyassin&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Amgad's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amgadyassin&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amgadyassin&theme=tokyonight&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
+  <br/>
+  <p align="center">
+    <sub><em>Note: Primary enterprise architectures, Microsoft Fabric lakehouses, and CDP pipelines reside in private corporate tenants. Explore open-source code in <a href="https://github.com/amgadyassin/global-ai-layoffs">global-ai-layoffs</a>.</em></sub>
+  </p>
 </div>
 
 <br/>
